@@ -1,3 +1,6 @@
 node_modules
 
 
+git add .
+git commit -m "commit 2"
+git push
